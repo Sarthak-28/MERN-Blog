@@ -1,0 +1,11 @@
+npx create-react-app client
+cd client
+//Delete all the files from public folder except index.html
+//Delete all the files from src except index.css and index.js
+npm start
+create all pages
+npm i react-router-dom
+npm i react-icons
+
+
+In index.css
